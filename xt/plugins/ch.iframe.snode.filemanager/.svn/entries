@@ -1,0 +1,131 @@
+9
+
+dir
+6499
+svn://subversion.iframe.ch/s-node/xt/plugins/ch.iframe.snode.filemanager
+svn://subversion.iframe.ch/s-node
+
+
+
+2010-08-04T13:01:24.332190Z
+6481
+dzogg
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b23707c4-08f5-0310-840a-f4e3a7c21b69
+
+_categorypicker
+dir
+
+_folder_picker
+dir
+
+_noderelations
+dir
+
+_picker
+dir
+
+_picker_display
+dir
+
+admin
+dir
+
+categorypicker
+dir
+
+doc
+dir
+
+downloadcenter
+dir
+
+downloadlist
+dir
+
+fileinfo
+dir
+
+impressions
+dir
+
+includes
+dir
+
+movie
+dir
+
+package.xml
+file
+
+
+
+
+2011-01-03T15:21:06.000000Z
+210eaa610f6c70184f43280b629c4845
+2010-05-03T13:26:55.063250Z
+6391
+dzogg
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32740
+
+picker
+dir
+
+podcast
+dir
+
+setvalues
+dir
+
+topdownloads
+dir
+
+tree
+dir
+
+upload
+dir
+
+user_files
+dir
+
+user_images
+dir
+
+user_upload
+dir
+

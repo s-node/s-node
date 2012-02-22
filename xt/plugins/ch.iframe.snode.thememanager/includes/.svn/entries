@@ -1,0 +1,77 @@
+9
+
+dir
+6499
+svn://subversion.iframe.ch/s-node/xt/plugins/ch.iframe.snode.thememanager/includes
+svn://subversion.iframe.ch/s-node
+
+
+
+2009-12-02T09:42:04.633194Z
+6161
+vzaech
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b23707c4-08f5-0310-840a-f4e3a7c21b69
+
+actions
+dir
+
+config.inc.php
+file
+
+
+
+
+2011-01-03T15:20:53.000000Z
+8fde0676b30884ce27ac31ff2e089f56
+2008-01-03T07:39:27.121706Z
+4400
+mgraf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+689
+
+extensionpoints
+dir
+
+extensions
+dir
+
+lang
+dir
+
+permissions
+dir
+

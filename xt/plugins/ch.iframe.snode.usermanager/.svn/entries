@@ -1,0 +1,86 @@
+9
+
+dir
+6499
+svn://subversion.iframe.ch/s-node/xt/plugins/ch.iframe.snode.usermanager
+svn://subversion.iframe.ch/s-node
+
+
+
+2010-09-09T09:33:02.652290Z
+6488
+dzogg
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b23707c4-08f5-0310-840a-f4e3a7c21b69
+
+admin
+dir
+
+desktop
+dir
+
+directory
+dir
+
+doc
+dir
+
+includes
+dir
+
+loginbox
+dir
+
+lostpassword
+dir
+
+package.xml
+file
+
+
+
+
+2011-01-03T15:21:03.000000Z
+63537dceeceda8268c988b24b39413ec
+2009-06-29T13:33:36.891408Z
+5961
+vzaech
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6220
+
+passwdchange
+dir
+

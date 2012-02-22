@@ -1,0 +1,19 @@
+<?php
+
+/**
+ * createTask
+ *
+ * @package S-Node
+ * @subpackage Tasks
+ * @author Roger Dudler <rdudler@iframe.ch>
+ * @copyright Copyright 2005, iframe AG, http://www.iframe.ch
+ * @version $Id$
+ */
+
+
+/**
+ * Jumps to create task tab in the administration
+ */
+    $GLOBALS['plugin']->setAdminModule('ct');
+
+?>

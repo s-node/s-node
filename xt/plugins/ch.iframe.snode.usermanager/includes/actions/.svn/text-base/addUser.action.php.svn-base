@@ -1,0 +1,15 @@
+<?php
+
+/**
+ * addUser
+ *
+ * @package S-Node
+ * @subpackage Usermanager
+ * @author Roger Dudler <rdudler@iframe.ch>
+ * @copyright Copyright 2005, iframe AG, http://www.iframe.ch
+ * @version $Id$
+ */
+
+    $GLOBALS['plugin']->setAdminModule('a');
+
+?>

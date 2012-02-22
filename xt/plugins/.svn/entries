@@ -1,0 +1,274 @@
+9
+
+dir
+6499
+svn://subversion.iframe.ch/s-node/xt/plugins
+svn://subversion.iframe.ch/s-node
+
+
+
+2010-12-08T09:43:38.383389Z
+6499
+dzogg
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b23707c4-08f5-0310-840a-f4e3a7c21b69
+
+ch.iframe.snode.addressmanager
+dir
+
+ch.iframe.snode.appointments
+dir
+
+ch.iframe.snode.areas
+dir
+
+ch.iframe.snode.articles
+dir
+
+ch.iframe.snode.assessment
+dir
+
+ch.iframe.snode.autopilot
+dir
+
+ch.iframe.snode.banner
+dir
+
+ch.iframe.snode.blog
+dir
+
+ch.iframe.snode.catalog
+dir
+
+ch.iframe.snode.catalog_properties
+dir
+
+ch.iframe.snode.category
+dir
+
+ch.iframe.snode.core
+dir
+
+ch.iframe.snode.css
+dir
+
+ch.iframe.snode.customers
+dir
+
+ch.iframe.snode.errorpages
+dir
+
+ch.iframe.snode.events
+dir
+
+ch.iframe.snode.faq
+dir
+
+ch.iframe.snode.feedreader
+dir
+
+ch.iframe.snode.filemanager
+dir
+
+ch.iframe.snode.filloutsviewer
+dir
+
+ch.iframe.snode.footer
+dir
+
+ch.iframe.snode.formmanager
+dir
+
+ch.iframe.snode.formreport
+dir
+
+ch.iframe.snode.forum
+dir
+
+ch.iframe.snode.fsintegrator
+dir
+
+ch.iframe.snode.gallery
+dir
+
+ch.iframe.snode.gmap
+dir
+
+ch.iframe.snode.googlemaps
+dir
+
+ch.iframe.snode.guestbook
+dir
+
+ch.iframe.snode.header
+dir
+
+ch.iframe.snode.history
+dir
+
+ch.iframe.snode.hr
+dir
+
+ch.iframe.snode.i18n
+dir
+
+ch.iframe.snode.info
+dir
+
+ch.iframe.snode.installer
+dir
+
+ch.iframe.snode.jobcenter
+dir
+
+ch.iframe.snode.licensemanager
+dir
+
+ch.iframe.snode.locations
+dir
+
+ch.iframe.snode.messages
+dir
+
+ch.iframe.snode.microshop
+dir
+
+ch.iframe.snode.navigation
+dir
+
+ch.iframe.snode.nettools
+dir
+
+ch.iframe.snode.newsletter
+dir
+
+ch.iframe.snode.nodepermissions
+dir
+
+ch.iframe.snode.objects
+dir
+
+ch.iframe.snode.packagebuilder
+dir
+
+ch.iframe.snode.packaging_units
+dir
+
+ch.iframe.snode.permissions
+dir
+
+ch.iframe.snode.pluginwizard
+dir
+
+ch.iframe.snode.poll
+dir
+
+ch.iframe.snode.projects
+dir
+
+ch.iframe.snode.properties
+dir
+
+ch.iframe.snode.ratings
+dir
+
+ch.iframe.snode.relations
+dir
+
+ch.iframe.snode.rezepte
+dir
+
+ch.iframe.snode.rezepte_ingridients
+dir
+
+ch.iframe.snode.roombooking
+dir
+
+ch.iframe.snode.search
+dir
+
+ch.iframe.snode.search_en
+dir
+
+ch.iframe.snode.search_es
+dir
+
+ch.iframe.snode.search_fr
+dir
+
+ch.iframe.snode.search_hu
+dir
+
+ch.iframe.snode.search_it
+dir
+
+ch.iframe.snode.search_pt
+dir
+
+ch.iframe.snode.search_ro
+dir
+
+ch.iframe.snode.search_ru
+dir
+
+ch.iframe.snode.securitycenter
+dir
+
+ch.iframe.snode.settings
+dir
+
+ch.iframe.snode.shop
+dir
+
+ch.iframe.snode.shop_orders
+dir
+
+ch.iframe.snode.starter
+dir
+
+ch.iframe.snode.statistics
+dir
+
+ch.iframe.snode.survey
+dir
+
+ch.iframe.snode.tasks
+dir
+
+ch.iframe.snode.thememanager
+dir
+
+ch.iframe.snode.tickets
+dir
+
+ch.iframe.snode.toolbox
+dir
+
+ch.iframe.snode.translations
+dir
+
+ch.iframe.snode.units
+dir
+
+ch.iframe.snode.usermanager
+dir
+
+ch.iframe.snode.virtual
+dir
+
+ch.iframe.snode.widgets
+dir
+

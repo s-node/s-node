@@ -1,0 +1,74 @@
+9
+
+dir
+6499
+svn://subversion.iframe.ch/s-node/xt/plugins/ch.iframe.snode.tickets/includes
+svn://subversion.iframe.ch/s-node
+
+
+
+2008-08-19T07:38:39.568459Z
+5473
+mgraf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b23707c4-08f5-0310-840a-f4e3a7c21b69
+
+actions
+dir
+
+config.inc.php
+file
+
+
+
+
+2011-01-03T15:20:59.000000Z
+15c738be291065c9c85f28e012fdac04
+2008-05-20T10:09:37.917690Z
+5023
+mgraf
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1272
+
+docs
+dir
+
+lang
+dir
+
+permissions
+dir
+

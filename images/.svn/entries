@@ -1,0 +1,181 @@
+9
+
+dir
+6499
+svn://subversion.iframe.ch/s-node/images
+svn://subversion.iframe.ch/s-node
+
+
+
+2010-06-04T09:44:54.228476Z
+6437
+dzogg
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b23707c4-08f5-0310-840a-f4e3a7c21b69
+
+admin
+dir
+
+ajax-loader.gif
+file
+
+
+
+
+2011-01-03T15:20:02.000000Z
+885810e4898a616b6271d9c527b53c55
+2006-09-12T08:00:45.840842Z
+2706
+vzaech
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+777
+
+autosuggest
+dir
+
+ch.iframe.snode.gallery
+dir
+
+ch.iframe.snode.microshop
+dir
+
+default
+dir
+
+emoticons
+dir
+
+flags
+dir
+
+icons
+dir
+
+installer
+dir
+
+jquery-ui
+dir
+
+lang
+dir
+
+lightbox
+dir
+
+lightwindow
+dir
+
+ratings
+dir
+
+spacer.gif
+file
+
+
+
+
+2011-01-03T15:19:56.000000Z
+93e65182fe45341563c2f18f13987dc9
+2005-04-18T17:03:59.484234Z
+1
+rdudler
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+68
+
+thickbox
+dir
+
+tmp
+dir
+
+transparent.png
+file
+
+
+
+
+2011-01-03T15:19:56.000000Z
+a9bca78f13424fc01bd983544c6c8873
+2007-08-31T06:32:23.570845Z
+3688
+mgraf
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+174
+
+txt
+dir
+

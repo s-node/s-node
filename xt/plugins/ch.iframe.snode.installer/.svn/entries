@@ -1,0 +1,71 @@
+9
+
+dir
+6499
+svn://subversion.iframe.ch/s-node/xt/plugins/ch.iframe.snode.installer
+svn://subversion.iframe.ch/s-node
+
+
+
+2009-11-25T12:24:40.689933Z
+6140
+fgaechter
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b23707c4-08f5-0310-840a-f4e3a7c21b69
+
+admin
+dir
+
+doc
+dir
+
+includes
+dir
+
+package.xml
+file
+
+
+
+
+2011-01-03T15:20:58.000000Z
+d8d0e44df7be1d97ad489454a432819c
+2007-09-19T08:50:07.212429Z
+3820
+mgraf
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1660
+

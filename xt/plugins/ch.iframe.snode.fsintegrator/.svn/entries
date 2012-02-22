@@ -1,0 +1,71 @@
+9
+
+dir
+6499
+svn://subversion.iframe.ch/s-node/xt/plugins/ch.iframe.snode.fsintegrator
+svn://subversion.iframe.ch/s-node
+
+
+
+2008-07-23T07:37:01.170634Z
+5335
+mgraf
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b23707c4-08f5-0310-840a-f4e3a7c21b69
+
+doc
+dir
+
+includes
+dir
+
+package.xml
+file
+
+
+
+
+2011-01-03T15:20:56.000000Z
+19d2ed4d2ae7b87e2f054f7c3a17a24d
+2008-04-10T16:49:55.239345Z
+4815
+vzaech
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+678
+
+viewer
+dir
+

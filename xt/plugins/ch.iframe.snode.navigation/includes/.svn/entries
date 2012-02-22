@@ -1,0 +1,80 @@
+9
+
+dir
+6499
+svn://subversion.iframe.ch/s-node/xt/plugins/ch.iframe.snode.navigation/includes
+svn://subversion.iframe.ch/s-node
+
+
+
+2010-04-23T08:12:49.508439Z
+6357
+dzogg
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b23707c4-08f5-0310-840a-f4e3a7c21b69
+
+actions
+dir
+
+config.inc.php
+file
+
+
+
+
+2011-01-03T15:20:37.000000Z
+1c8735ace0b03182e971e0d2e452c68b
+2009-09-28T09:46:09.336505Z
+6010
+vzaech
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4791
+
+extensionpoints
+dir
+
+extensions
+dir
+
+lang
+dir
+
+permissions
+dir
+
+remoteactions
+dir
+

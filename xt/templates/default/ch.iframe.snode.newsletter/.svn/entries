@@ -1,0 +1,49 @@
+9
+
+dir
+6499
+svn://subversion.iframe.ch/s-node/xt/templates/default/ch.iframe.snode.newsletter
+svn://subversion.iframe.ch/s-node
+
+
+
+2010-11-10T12:55:30.328371Z
+6495
+dzogg
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b23707c4-08f5-0310-840a-f4e3a7c21b69
+
+admin
+dir
+
+list
+dir
+
+mail
+dir
+
+subscribe
+dir
+
+subscribe_fromsessionuser
+dir
+
+subscribe_simple
+dir
+
+viewer
+dir
+

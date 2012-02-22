@@ -1,0 +1,89 @@
+9
+
+dir
+6499
+svn://subversion.iframe.ch/s-node/xt/plugins/ch.iframe.snode.newsletter
+svn://subversion.iframe.ch/s-node
+
+
+
+2010-06-10T13:04:37.190521Z
+6444
+dzogg
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b23707c4-08f5-0310-840a-f4e3a7c21b69
+
+admin
+dir
+
+doc
+dir
+
+includes
+dir
+
+list
+dir
+
+package.xml
+file
+
+
+
+
+2011-01-03T15:20:53.000000Z
+a017dbbccc967a4ffc351bba77370ac9
+2010-06-10T13:04:37.190521Z
+6444
+dzogg
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16698
+
+send
+dir
+
+subscribe
+dir
+
+subscribe_fromsessionuser
+dir
+
+subscribe_simple
+dir
+
+viewer
+dir
+

@@ -1,0 +1,94 @@
+9
+
+dir
+6499
+svn://subversion.iframe.ch/s-node/xt/templates/default/ch.iframe.snode.catalog
+svn://subversion.iframe.ch/s-node
+
+
+
+2010-06-07T07:37:59.600700Z
+6440
+dzogg
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b23707c4-08f5-0310-840a-f4e3a7c21b69
+
+_picker
+dir
+
+admin
+dir
+
+articles_selector
+dir
+
+breadcrumb
+dir
+
+category_tree
+dir
+
+current_category
+dir
+
+includes
+dir
+
+list
+dir
+
+product_images
+dir
+
+product_list
+dir
+
+product_list_filter
+dir
+
+product_list_navigator
+dir
+
+product_of_month
+dir
+
+product_properties
+dir
+
+product_property_filter
+dir
+
+product_property_search
+dir
+
+product_sets
+dir
+
+product_viewer
+dir
+
+related_articles
+dir
+
+search
+dir
+
+suchabo
+dir
+
+suchlauf
+dir
+

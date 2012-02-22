@@ -1,0 +1,34 @@
+9
+
+dir
+6499
+svn://subversion.iframe.ch/s-node/xt/templates/default/ch.iframe.snode.projects
+svn://subversion.iframe.ch/s-node
+
+
+
+2007-03-07T13:34:05.035508Z
+3159
+vzaech
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b23707c4-08f5-0310-840a-f4e3a7c21b69
+
+admin
+dir
+
+desktop
+dir
+
