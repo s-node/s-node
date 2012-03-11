@@ -1,10 +1,15 @@
+# $Id: robots.txt,v 1.0 2012/03/11 iframe AG
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. 
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+
 User-agent: *
-Disallow:/xt/
-Disallow:/admin/
-Disallow:/fonts/
-Disallow:/scripts/
-Disallow:/styles/
-Disallow:/tools/
-Disallow:/trackback.log
-Disallow:/trackback.php
-Disallow:/captcha_image.php
+# Directories
+Disallow:/xt/includes
