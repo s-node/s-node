@@ -1,3 +1,9 @@
+S-Node
+==================
+
+Synode ist ein Open Source Content Management Framework entwickelt von Frame AG und verfügbar unter der LGPL Lizenz (siehe GPL.txt and LGPL.txt für mehr Information).
+
+
 Systemvoraussetzungen
 ======================
 PHP 5
@@ -14,7 +20,7 @@ MySQL 4
 Webserver
 ---------
 - Apache 1.3.x oder 2.x
-  oder Microsoft Internet Information Services mit PHP Unterst√ºtzung
+  oder Microsoft Internet Information Services mit PHP Unterstützung
 
 
 Installation
