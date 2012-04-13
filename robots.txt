@@ -1,8 +1,9 @@
 # robots.txt
-#
+# Changed by sakan
 # This file is to prevent the crawling and indexing of certain parts
 # of your site by web crawlers and spiders run by sites like Yahoo
 # and Google. 
+#
 # This file will be ignored unless it is at the root of your host:
 # Used:    http://example.com/robots.txt
 # Ignored: http://example.com/site/robots.txt
